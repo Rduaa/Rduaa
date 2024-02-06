@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rduaa
-- 👀 I’m interested in web development 
+- 👀 I’m interested in android development
 - 🌱 I’m currently learning front end programming
-- 💞️ I’m looking to collaborate on web development
+- 💞️ I’m looking to collaborate on android development
 - 📫 ruslankavaziduadze@gmail.com
 
 <!---
