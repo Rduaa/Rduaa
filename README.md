@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rduaa
-- 👀 I’m interested in Android Development | Kotlin | Java | Android Studio
+- 👀 I’m interested in Android Development | Kotlin | Java | Android Studio | QA Java
 - 🌱 I’m currently learning and making projects
-- 💞️ I’m looking to collaborate on android development
+- 💞️ I’m looking to collaborate
 - 📫 ruslankavaziduadze@gmail.com
 
 <!---
