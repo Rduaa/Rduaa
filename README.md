@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Rduaa
-- 👀 I’m interested in Android Development | Kotlin | Java | Android Studio | QA Java
-- 🌱 I’m currently learning and making projects
-- 💞️ I’m looking to collaborate
-- 📫 ruslankavaziduadze@gmail.com
+# 👋 Hi, I'm Ruslan Duadze (@Rduaa)
 
-<!---
-Rduaa/Rduaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 QA Engineer (Manual + Automation Java)
+
+## 🧪 About Me
+QA Engineer focused on web application testing and Java-based test automation.
+Experience in manual testing, test design, and UI automation using Selenium.
+🧪 My repositories contain UI and API test automation projects in Java.
+## 🛠 Tech Stack
+- Java, Selenium WebDriver, TestNG, Maven
+- Manual Testing, Test Cases, Bug Reports
+- Git, Postman, IntelliJ IDEA
+
+## 🤝 Open to opportunities
+ QA / Automation QA /
+
+📧 ruslankavaziduadze@gmail.com  
+💬 Telegram: @ruslandua
