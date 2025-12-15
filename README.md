@@ -5,7 +5,9 @@
 ## 🧪 About Me
 QA Engineer focused on web application testing and Java-based test automation.
 Experience in manual testing, test design, and UI automation using Selenium.
-🧪 My repositories contain UI and API test automation projects in Java.
+
+## 🧪 My repositories contain UI and API test automation projects in Java.
+
 ## 🛠 Tech Stack
 - Java, Selenium WebDriver, TestNG, Maven
 - Manual Testing, Test Cases, Bug Reports
