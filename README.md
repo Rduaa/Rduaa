@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ruslan Duadze (@Rduaa)
 
-💻 QA Engineer (Manual + Automation Java)
+💻 QA Automation Engineer | Java | API Testing | Manual & Automation
 
 ## 🧪 About Me
 QA Engineer focused on web application testing and Java-based test automation.
@@ -14,7 +14,7 @@ Experience in manual testing, test design, and UI automation using Selenium.
 - Git, Postman, IntelliJ IDEA
 
 ## 🤝 Open to opportunities
- QA / Automation QA /
+ QA Automation Engineer | Java | API Testing | Manual & Automation
 
 📧 ruslankavaziduadze@gmail.com  
 💬 Telegram: @ruslandua
